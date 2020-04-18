@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cfd29da-7493-4e61-a9f9-e253f9e7ab98" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wh/08/1152.py" beforeDir="false" afterPath="$PROJECT_DIR$/wh/08/1152.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wh/08/1157.py" beforeDir="false" afterPath="$PROJECT_DIR$/wh/08/1157.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wh/08/11654.py" beforeDir="false" afterPath="$PROJECT_DIR$/wh/08/11654.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wh/08/11720.py" beforeDir="false" afterPath="$PROJECT_DIR$/wh/08/11720.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wh/08/1316.py" beforeDir="false" afterPath="$PROJECT_DIR$/wh/08/1316.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wh/08/2675.py" beforeDir="false" afterPath="$PROJECT_DIR$/wh/08/2675.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wh/08/2908.py" beforeDir="false" afterPath="$PROJECT_DIR$/wh/08/2908.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wh/08/2941.py" beforeDir="false" afterPath="$PROJECT_DIR$/wh/08/2941.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wh/08/5622.py" beforeDir="false" afterPath="$PROJECT_DIR$/wh/08/5622.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wh/09/1712.py" beforeDir="false" afterPath="$PROJECT_DIR$/wh/09/1712.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wh/09/2839.py" beforeDir="false" afterPath="$PROJECT_DIR$/wh/09/2839.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,6 +173,7 @@
       <workItem from="1586175923119" duration="11933000" />
       <workItem from="1586258062672" duration="14999000" />
       <workItem from="1586928137105" duration="46000" />
+      <workItem from="1587213423252" duration="171000" />
     </task>
     <servers />
   </component>
