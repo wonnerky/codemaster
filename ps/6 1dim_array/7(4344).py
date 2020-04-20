@@ -1,11 +1,15 @@
-a = int(input())
+import sys
+
+a = int(sys.stdin.readline())
 
 for i in range(a):
+    b = list(map(int, sys.stdin.readline().split()))
+    std_num = b[0]
+    del b[0]
+    avg_score = sum(b)/std_num
     cnt = 0
-    std_list = list(map(int, input().split()))
-    avg = sum(std_list[1:])/std_list[0]
-    for j in range(1, len(std_list)):
-        if avg < std_list[j]:
-            cnt = cnt + 1
 
-    print(str(round(cnt/std_list[0]*100, 3))+'%')
+    for j in range(len(b)):
+        if avg_score < b[j]:
+            cnt += 1
+    print("%.3f%%" %(cnt/std_num*100))
