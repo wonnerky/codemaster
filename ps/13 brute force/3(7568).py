@@ -1,18 +1,16 @@
 a = int(input())
 
-w_list = []
-h_list = []
+s_list = []
 
-for i in range(a):
+for _ in range(a):
     w, h = map(int, input().split())
-    w_list.append(w)
-    h_list.append(h)
+    s_list.append((w, h))
 
-wr_list = []
-wh_list = []
-rw = 1
-rh = 1
+for i in s_list:
+    r = 1
+    for j in s_list:
+        if i[0] < j[0] and i[1] < j[1]:
+            r += 1
 
-for i in range(a):
-    if w_list[i] == max(w_list):
-        w_list[i] = rw
+    print(r, end = " ")
+
