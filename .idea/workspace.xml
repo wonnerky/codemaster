@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cfd29da-7493-4e61-a9f9-e253f9e7ab98" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codemaster.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codemaster.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ym/15/111.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ps/13 brute force/3(7568).py" beforeDir="false" afterPath="$PROJECT_DIR$/ps/13 brute force/3(7568).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ps/15 backtracking/1(15649).py" beforeDir="false" afterPath="$PROJECT_DIR$/ps/15 backtracking/1(15649).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
