@@ -4,11 +4,16 @@
     <list default="true" id="1cfd29da-7493-4e61-a9f9-e253f9e7ab98" name="Default Changelist" comment="">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ps/15 backtracking/1(15649).py" beforeDir="false" afterPath="$PROJECT_DIR$/ps/15 backtracking/1(15649).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ps/16/6(1932).py" beforeDir="false" afterPath="$PROJECT_DIR$/ps/16/6(1932).py" afterDir="false" />
 =======
       <change afterPath="$PROJECT_DIR$/ym/15/111.py" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/rSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
+>>>>>>> 8893303b5576737fdd24129b31c136a7fd005dfe
 =======
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/rSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
@@ -55,7 +60,11 @@
       <recent name="C:\Users\gande\PycharmProjects\codemaster\wh" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.6(1932)">
+=======
+  <component name="RunManager" selected="Python.1(15649)">
+>>>>>>> 8893303b5576737fdd24129b31c136a7fd005dfe
     <configuration name="1011" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codemaster" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,7 +153,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="6(1932)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="3(7568)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> 8893303b5576737fdd24129b31c136a7fd005dfe
       <module name="codemaster" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,12 +165,20 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ps/16" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ps/13 brute force" />
+>>>>>>> 8893303b5576737fdd24129b31c136a7fd005dfe
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ps/16/6(1932).py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ps/13 brute force/3(7568).py" />
+>>>>>>> 8893303b5576737fdd24129b31c136a7fd005dfe
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,11 +189,18 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Python.6(1932)" />
+=======
+>>>>>>> 8893303b5576737fdd24129b31c136a7fd005dfe
         <item itemvalue="Python.1(15649)" />
         <item itemvalue="Python.3(7568)" />
         <item itemvalue="Python.1011_2" />
         <item itemvalue="Python.1011" />
+<<<<<<< HEAD
+=======
+        <item itemvalue="Python.2775" />
+>>>>>>> 8893303b5576737fdd24129b31c136a7fd005dfe
       </list>
     </recent_temporary>
   </component>
@@ -191,8 +219,13 @@
       <workItem from="1586321795355" duration="27000" />
       <workItem from="1586321823727" duration="29000" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <workItem from="1587369159142" duration="8010000" />
       <workItem from="1587432290734" duration="7679000" />
+=======
+      <workItem from="1587369159142" duration="7899000" />
+      <workItem from="1587444495535" duration="70000" />
+>>>>>>> 8893303b5576737fdd24129b31c136a7fd005dfe
 =======
       <workItem from="1587369159142" duration="7899000" />
       <workItem from="1587444495535" duration="70000" />
@@ -212,6 +245,7 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="775" y="287" key="FileChooserDialogImpl/-1920.-98.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586321820455" />
+<<<<<<< HEAD
     <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1587444438057">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -231,6 +265,27 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587444438057" />
+=======
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1587379035655">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587379035655" />
+    <state width="2517" height="282" key="GridCell.Tab.0.bottom/1920.0.2560.1040/0.0.1920.1040@1920.0.2560.1040" timestamp="1587224927649" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1587379035655">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587379035655" />
+    <state width="2517" height="282" key="GridCell.Tab.0.center/1920.0.2560.1040/0.0.1920.1040@1920.0.2560.1040" timestamp="1587224927649" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1587379035655">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587379035655" />
+    <state width="2517" height="282" key="GridCell.Tab.0.left/1920.0.2560.1040/0.0.1920.1040@1920.0.2560.1040" timestamp="1587224927649" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1587379035655">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587379035655" />
+>>>>>>> 8893303b5576737fdd24129b31c136a7fd005dfe
     <state width="2517" height="282" key="GridCell.Tab.0.right/1920.0.2560.1040/0.0.1920.1040@1920.0.2560.1040" timestamp="1587224927649" />
     <state width="2517" height="348" key="GridCell.Tab.1.bottom" timestamp="1587223561495">
       <screen x="1920" y="0" width="2560" height="1040" />
@@ -263,6 +318,7 @@
     </state>
     <state x="2863" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.2560.1040/0.0.1920.1040@1920.0.2560.1040" timestamp="1587214876179" />
   </component>
+<<<<<<< HEAD
 <<<<<<< HEAD
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/codemaster$1011.coverage" NAME="1011 Coverage Results" MODIFIED="1587223561483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wh/09" />
@@ -305,4 +361,6 @@
   </component>
 =======
 >>>>>>> 629c9894871b70d9028bd3eec9ec4695e366eaa5
+=======
+>>>>>>> 8893303b5576737fdd24129b31c136a7fd005dfe
 </project>
