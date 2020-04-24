@@ -6,7 +6,7 @@ A = []
 for i in range(1, a+1):
     A.append(i)
 
-p = itertools.permutations(A, b)
+p = itertools.combinations(A, b)
 l = list(p)
 
 for i in l:
