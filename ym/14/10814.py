@@ -1,27 +1,14 @@
 import sys
 
-n=int(sys.stdin.readline())
-big_list=[]
-dict={}
+n=int(sys.stdin.readline()) #몇번 반복
+info=[]
 for i in range(n):
-    info=sys.stdin.readline().split() #[나이, 이름]
-    info[0]=int(info[0])
-    big_list.append(info) # [[나이,이름],[나이,이름]]
+    info.append(sys.stdin.readline().split())
+    info[i][0]=int(info[i][0]) #info=[[나이,이름],[나이,이름]]
+    info[i].append(i) #순서 명시 #info=[[나이,이름,순서],[나이,이름,순서]]
 
-#print(big_list) ok
-
-for k,v in enumerate(info):
-    dict[k]=v
-
-big_list.sort()
+new_info=sorted(info, key=lambda x : (x[0],x[2])) #나이우선, 순서우선
 
 for i in range(n):
-    if i==n:
-        break
-    #if big_list[i][0] == big_list[i+1][0] and dict.items()
-
-
-
-
-
+    print(new_info[i][0],new_info[i][1])
 
