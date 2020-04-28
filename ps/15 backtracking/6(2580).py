@@ -11,6 +11,7 @@ for i in range(9):
         if sdk[i][j] == 0:
              zeros.append((i, j))
 
+
 def num_po(i, j):
     num = [1, 2, 3, 4, 5, 6, 7, 8, 9]
     for k in range(9):
@@ -28,8 +29,32 @@ def num_po(i, j):
 
     return num
 
-for k in range(len(zeros)):
-    (i, j) = zeros[k]
-    sdk[i][j] = num_po(i, j)
 
-print(sdk)
+flag = False
+
+
+def answer(lst):
+    global flag
+    for i in range(9):
+        if set(lst[i]) == {1, 2, 3, 4, 5, 6, 7, 8, 9}:
+            flag = True
+            return flag
+
+def sudoku(x):
+    if x == len(zeros):
+        if answer(sdk) == True:
+            return sdk
+        else :
+
+
+    else :
+        (i, j) = zeros[x]
+        crr_num = num_po(i, j)
+
+        for nn in crr_num:
+            sdk[i][j] = nn
+            sudoku(x+1)
+
+
+for r in sdk:
+    print(*r)

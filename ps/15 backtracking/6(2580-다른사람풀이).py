@@ -30,14 +30,14 @@ flag = False  # 답이 출력되었는가?
 
 
 def dfs(x):
-    global flag #전역변수 설정
+    global flag  # 전역변수 설정
 
     if flag:  # 이미 답이 출력된 경우
         return
 
     if x == len(zeros):  # 마지막 0까지 다 채웠을 경우
         for row in sudoku:
-            print(*row) #*를 붙이면 출력시 리스트형이 아닌 형태로 출력
+            print(*row)  # *를 붙이면 출력시 리스트형이 아닌 형태로 출력
         flag = True  # 답 출력
         return
 
